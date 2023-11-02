@@ -5,7 +5,7 @@ Generated images from text using a pre-trained stable diffusion model (Stable Di
 
 ## Stable diffusion
 Stable Diffusion is composed of three major components:  
-- Diffusion Model (U-Net)
+- U-Net
 - VAE
 - Text Encoder (Transformer)  
 Stable Diffusion can efficiently generate high-resolution images by training a diffusion model on the VAE latent space.
